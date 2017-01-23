@@ -42,7 +42,7 @@ events.c -> Tratamento de eventos (mouse, teclado)
 
 exit.c   -> Responsavel por encerrar as funcoes do jogo e da SDL2
 
-ia.c	 -> "Inteligência Artificial" do jogo
+ia.c	   -> "Inteligência Artificial" do jogo
 
 render.c -> Funções de desenho na tela
 
