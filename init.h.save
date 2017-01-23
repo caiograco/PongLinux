@@ -1,7 +1,0 @@
-#ifndef INIT_H_INCLUDED
-#define INIT_H_INCLUDED
-
-bool OnInit(SDL_Renderer** _gRenderer)
-void clearScreen(void);
-
-#endif // INIT_H_INCLUDED
