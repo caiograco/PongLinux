@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1485089765 source:/home/graco/Codigos/Pong/main.c
+	"game.h"
+
+1477344471 source:/home/graco/Codigos/Pong/game.c
+
+1477346482 source:/home/graco/Codigos/Pong/error.c
+	"game.h"
+
+1485089706 /home/graco/Codigos/Pong/game.h
+	"includes.h"
+
+1479429790 /home/graco/Codigos/Pong/includes.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"error.h"
+	"init.h"
+	"exit.h"
+	"events.h"
+	"render.h"
+	"ia.h"
+
+1477346472 /home/graco/Codigos/Pong/error.h
+
+1479462204 /home/graco/Codigos/Pong/init.h
+
+1485089821 source:/home/graco/Codigos/Pong/init.c
+	"game.h"
+
+1477528340 /home/graco/Codigos/Pong/exit.h
+
+1479464470 source:/home/graco/Codigos/Pong/exit.c
+	"game.h"
+
+1485089480 source:/home/graco/Codigos/Pong/events.c
+	"game.h"
+
+1482533477 /home/graco/Codigos/Pong/events.h
+
+1482533446 /home/graco/Codigos/Pong/render.h
+
+1485089737 source:/home/graco/Codigos/Pong/render.c
+	"game.h"
+
+1479338161 /home/graco/Codigos/Pong/ia.h
+
+1479338161 source:/home/graco/Codigos/Pong/ia.c
+	"game.h"
+

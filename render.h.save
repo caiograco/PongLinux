@@ -1,0 +1,8 @@
+#ifndef RENDER_H_INCLUDED
+#define RENDER_H_INCLUDED
+
+int OnRender(SDL_Renderer* _gRenderer);
+void drawPads(SDL_Renderer*& _gRenderer);
+void drawBola(SDL_Renderer*& _gRenderer);
+
+#endif // RENDER_H_INCLUDED
