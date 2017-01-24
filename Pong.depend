@@ -29,7 +29,7 @@
 
 1479462204 /home/graco/Codigos/Pong/init.h
 
-1485089821 source:/home/graco/Codigos/Pong/init.c
+1485294529 source:/home/graco/Codigos/Pong/init.c
 	"game.h"
 
 1477528340 /home/graco/Codigos/Pong/exit.h
@@ -37,7 +37,7 @@
 1479464470 source:/home/graco/Codigos/Pong/exit.c
 	"game.h"
 
-1485089480 source:/home/graco/Codigos/Pong/events.c
+1485090517 source:/home/graco/Codigos/Pong/events.c
 	"game.h"
 
 1482533477 /home/graco/Codigos/Pong/events.h

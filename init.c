@@ -25,7 +25,7 @@ bool OnInit(void)
     }
 
 
-    loadSounds();
+    //loadSounds();
     loadImages();
     gameReady();
 
